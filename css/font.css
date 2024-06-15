@@ -1,0 +1,48 @@
+@font-face {
+    font-family: termina-el;
+    src: url(/src/dist/icons/Termina/TerminaTest-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: termina-t;
+    src: url(/src/dist/icons/Termina/TerminaTest-Thin.otf);
+}
+
+@font-face {
+    font-family: termina-l;
+    src: url(/src/dist/icons/Termina/TerminaTest-Light.otf);
+}
+
+
+@font-face {
+    font-family: termina-r;
+    src: url(/src/dist/icons/Termina/TerminaTest-Regular.otf);
+}
+
+@font-face {
+    font-family: termina-m;
+    src: url(/src/dist/icons/Termina/TerminaTest-Medium.otf);
+}
+
+@font-face {
+    font-family: termina-d;
+    src: url(/src/dist/icons/Termina/TerminaTest-Demi.otf);
+}
+
+
+@font-face {
+    font-family: termina-h;
+    src: url(/src/dist/icons/Termina/TerminaTest-Heavy.otf);
+}
+
+@font-face {
+    font-family: termina-b;
+    src: url(/src/dist/icons/Termina/TerminaTest-Bold.otf);
+}
+
+@font-face {
+    font-family: termina-black;
+    src: url(/src/dist/icons/Termina/TerminaTest-Black.otf);
+}
+
+
